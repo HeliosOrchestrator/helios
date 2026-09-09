@@ -14,4 +14,4 @@ Helios is a high-precision code orchestrator built to bypass the bloated, token-
 
 ---
 
-*Watch the full 5:10 demo video [Link coming shortly] to see Helios in action.*
+*Watch the full 5:10 demo video https://youtu.be/wlJpQgoxTmY to see Helios in action.*
